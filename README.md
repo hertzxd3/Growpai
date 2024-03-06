@@ -1,4 +1,8 @@
 # growpai v4.51
+# Download Growpai official
+# Download GrowPai
+# Official repo to download growpai is here!
+# New growpai
 Growpai made by HertZxd
 
 ChangeLogs [06/3/2024] 
