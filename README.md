@@ -1,4 +1,4 @@
-# growpai v4.51
+# growpai
 # Download Growpai official
 # Download GrowPai
 # Official repo to download growpai is here!
