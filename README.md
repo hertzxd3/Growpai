@@ -2,7 +2,7 @@
 # Download Growpai official
 # Download GrowPai
 # Official repo to download growpai is here!
-# New growpai
+# Growpai official made by HertZxd
 Growpai official made by HertZxd
 
 Growtopia tools that make your life easier. With built in lua executor you can make a new features
